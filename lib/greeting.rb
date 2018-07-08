@@ -4,5 +4,3 @@ def greeting(name)
 end
 
 
-name = "Brennan"
-greeting(name)
